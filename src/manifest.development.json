@@ -1,0 +1,36 @@
+{
+    "manifest_version": 3,
+    "name": "Videoslots developer extension",
+    "description": "chrome extension",
+    "version": "0.0.1",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "assets/logo.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "http://localhost:3000/*"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "/content.js"
+            ]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "assets/*"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
+}
