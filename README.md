@@ -6,12 +6,18 @@ This is a very powerful start point for a chrome extension.
 
 Also demonstrates how to fetch data from a server and how communication from popup, background and content scripts work (Check the log functionality)
 - Sample functionality:
-![image](https://user-images.githubusercontent.com/1836450/221446026-091d35d9-fb18-4a9f-9765-b33220b41c68.png)
+![image](https://user-images.githubusercontent.com/1836450/222999308-86300b73-0967-4308-a7df-6adad0abb66f.png)
 
 ![image](https://user-images.githubusercontent.com/1836450/221446050-239d9e47-875f-4051-90d5-03cde3f4f159.png)
 
 * Check logs on the site. (normally logs doesn't appear on the website console, but on the context of the extension, this is an added functionality)
 ![image](https://user-images.githubusercontent.com/1836450/221446175-dc61aeb9-3337-4a07-a99b-9c9049f329ff.png)
+![image](https://user-images.githubusercontent.com/1836450/222999369-f49916b0-b0c2-4dcd-87f8-0a3e9d02345f.png)
+![image](https://user-images.githubusercontent.com/1836450/222999447-e9de3231-a3ec-4ef3-b1ad-810b77cdc331.png)
+![image](https://user-images.githubusercontent.com/1836450/222999508-8e943104-cf05-4cc9-9072-a04d4e4f63e9.png)
+![image](https://user-images.githubusercontent.com/1836450/222999532-afe3d3d5-c294-41cd-a988-e1cd9a657aa7.png)
+![image](https://user-images.githubusercontent.com/1836450/222999561-1af27044-1ca0-4df5-a0e6-ff72811f6fc8.png)
+![image](https://user-images.githubusercontent.com/1836450/222999861-279c6f3e-2495-40b6-986e-ccebbdb66d96.png)
 
 
 ## Project setup
